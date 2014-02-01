@@ -1,0 +1,322 @@
+body {
+  padding-top: 200px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+h3 {
+  color: #72b5f7;
+}
+
+#topnavdiv {
+    background-color: #2294ee;
+}
+#topnav {
+    float: right;
+    height: 45px;
+    color: white;
+}
+#bottomnavdiv {
+    background-image:url('image2/menubackground.jpg');
+}
+#bottomnav {
+
+
+    height: 100px;
+}
+
+.navbar-nav {
+  float: none;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+#dashboard {
+    background-color:#33cc66;
+    color: white;
+    margin-bottom: 20px;
+    height: 75px;
+    border-radius:5px;
+ 
+}
+#dashboard h3 {
+  color: white;
+}
+#searchbox {
+    float: right;
+
+}
+
+.main-content{
+  background: linear-gradient(#d3d3d3, white, white);
+  width: 100%;
+  overflow: hidden;
+  border-radius: 3%;
+  border: 10px solid transparent;
+
+}
+.main {
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-left: 1px solid #d3d3d3;
+  border-right: 1px solid #d3d3d3;
+  
+}
+#mainleft {
+  border-right: solid 1px gray;
+  padding-left: 11px;
+  padding-right: 0px;
+  height: 850px;
+}
+#mainright {
+  height: 850px;
+}
+#announcements {
+  border-bottom: solid 1px gray;
+  margin-top: 10px;
+
+}
+#announce {
+  color: orange;
+}
+#announceleft {
+  border-right: 1px solid gray;
+   padding-top: 10px;
+  padding-bottom: 10px;
+}
+#announcecenter {
+  border-right: 1px solid gray;
+  padding-top: 20px;
+
+  padding-bottom: 10px;
+}
+#announceright {
+  padding-top: 18px;
+  padding-left: 8px;
+  padding-bottom: 15px;
+}
+.tasks {
+  
+  color: #72b5f7;
+}
+.tasktop {
+  padding-right: 8px;
+  padding-left: 8px;
+}
+#taskwel {
+  color: gray;
+}
+#taskset {
+  float: right;
+  background-color: gray;
+}
+.taskline {
+  border-bottom: solid 1px gray;
+  padding: 7px;
+}
+.count {
+  float: right;
+}
+.dotline {
+  border-bottom: dotted 1px gray;
+  padding: 7px;
+}
+.recpics {
+  padding-right: 10px;
+  float: left;
+}
+.rectext {
+  padding-left: 10px;
+  color: gray;
+}
+.rectext p {
+  margin-bottom: 0;
+}
+.minititle {
+  font-size: 8px;
+}
+#longpic {
+  padding-bottom: 10px;
+}
+#bulbpic {
+  padding-right: 10px;
+}
+.analytics {
+  border-bottom: 1px gray solid;
+}
+.subtitles {
+  color: gray;
+  padding-left: 10px;
+}
+.analyticright {
+  float:right;
+  border-left: 1px solid gray;
+}
+#graph2 {
+  width: 100px;
+}
+#graph3 {
+  width: 85px;
+  margin-left: 7px;
+}
+.date {
+  float: right;
+  border: 1px solid gray;
+  padding: 5px;
+  margin-right: 10px;
+}
+#graph1 {
+  width: 450px;
+  padding-left: 30px;
+}
+.analyticsocial {
+  text-align: center;
+}
+.analyticsocial li{
+  display: inline-block;
+  float: none;
+}
+
+.pplgraph {
+  border-bottom: 1px gray solid;
+
+  height: 300px;
+
+}
+
+.pplsquare {
+
+width: 40%;
+margin-left: 5%;
+margin-top: 15px;
+
+
+}
+.pplsquare2 {
+  float: right;
+
+  width: 40%;
+ margin-top: 15px;
+  margin-right: 5%;
+
+}
+.ppl {
+  padding-left: 30%;
+}
+.banner {
+  border: 1px solid black;
+}
+.bansides {
+  padding-left: 7%;
+}
+.banner h5 {
+  position: absolute;
+  top: -12px;
+  left: 0;
+  width: 100%;
+}
+.banner h5 span { 
+   
+}
+.didyouknow {
+
+  height: 200px;
+}
+
+#didyoubox {
+    background-color: #2294ee;
+  height: 140px;
+    margin: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 5%;
+}
+ #didyoutextbox{
+  color: white;
+}
+#back {
+  padding-top: 20px;
+  margin: 0;
+
+}
+#next {
+  padding-top: 20px;
+  margin: 0;
+}
+#promobottom {
+  background-color:#2294ee;
+  height: 200px;
+}
+.promos {
+  margin: 10px;
+  margin-top: 15px;
+  width: 95%;
+  height: 170px;
+  background-color: white;
+  border-radius: 5%;  
+}
+.footer {
+  height: 60px;
+  background-color:#EEEEEE;
+  
+}
+#footerleft {
+  border-left: 1px solid #d3d3d3;
+      padding-bottom: 20px;
+}
+#footerleft p {
+  float: right;
+    margin-top: 15px;
+    color: #cbcbcb;
+
+}
+#footercenter {
+  border-left: 1px solid #d3d3d3;
+  padding-bottom: 15px;
+
+}
+#footercenter p {
+  margin-top: 15px;
+}
+#footerright1 {
+  border-left: 1px solid #d3d3d3;
+
+
+}
+#footerright1 p {
+    margin-top: 10px;
+
+}
+#footerright2 {
+  border-left: 1px solid #d3d3d3;
+  border-right: 1px solid #d3d3d3;
+  padding: 0;
+  padding-bottom: 10px;
+  margin: 0;
+}
+#footerright2 ul {
+  margin-top: 20px;
+}
+b {
+  color: #2294ee;
+  
+}
+#arrowup {
+  float: right;
+  margin-top: 20px;
+}
+.footersocial {
+  text-align: center;
+  padding: 0px;
+}
+.footersocial li {
+  display: inline-block;
+  float: none;
+}
